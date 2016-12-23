@@ -4,7 +4,7 @@
 
 WeRead is a social reading app, designed to bring people together.
 
-## Installation
+## Deployment
 
 Copy this project (everything inside the "dotnet" folder) to your webdomain or hosting service (apache, ...). The API keys won't work locally. Once everything is uploaded, the site should work without problems.
 
